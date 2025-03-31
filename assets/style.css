@@ -67,3 +67,8 @@ button:hover {
     font-size: 18px;
 
 }
+
+@media screen and (max-width: 140px) {
+    display: flex;
+    
+}
